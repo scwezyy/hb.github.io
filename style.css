@@ -25,7 +25,7 @@ html {
     width: auto;
     position: absolute;
     opacity: 0;
-    animation: slideanim 40s infinite;
+    animation: slideanim 20s infinite;
     pointer-events: none;
 }
 .slideshow-item:nth-child(1),
@@ -48,7 +48,7 @@ html {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    animation: zoom 25s infinite;
+    animation: zoom 40s infinite;
 }
 .slideshow-item-text {
     max-width: 50%;
