@@ -34,15 +34,15 @@ html {
 }
 .slideshow-item:nth-child(2),
 .slideshow-item:nth-child(2) img {
-    animation-delay: 10s;
+    animation-delay: 5s;
 }
 .slideshow-item:nth-child(3),
 .slideshow-item:nth-child(3) img {
-    animation-delay: 20s;
+    animation-delay: 10s;
 }
 .slideshow-item:nth-child(4),
 .slideshow-item:nth-child(4) img {
-    animation-delay: 30s;
+    animation-delay: 15s;
 }
 .slideshow-item img {
     width: 100%;
