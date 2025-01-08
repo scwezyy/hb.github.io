@@ -30,7 +30,7 @@ html {
 }
 .slideshow-item:nth-child(1),
 .slideshow-item:nth-child(1) img {
-    animation-delay: 0;
+    animation-delay: 0s;
 }
 .slideshow-item:nth-child(2),
 .slideshow-item:nth-child(2) img {
