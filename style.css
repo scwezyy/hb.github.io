@@ -30,19 +30,19 @@ html {
 }
 .slideshow-item:nth-child(1),
 .slideshow-item:nth-child(1) img {
-    animation-delay: 0s;
+    animation-delay: 0;
 }
 .slideshow-item:nth-child(2),
 .slideshow-item:nth-child(2) img {
-    animation-delay: 5s;
+    animation-delay: 10s;
 }
 .slideshow-item:nth-child(3),
 .slideshow-item:nth-child(3) img {
-    animation-delay: 10s;
+    animation-delay: 20s;
 }
 .slideshow-item:nth-child(4),
 .slideshow-item:nth-child(4) img {
-    animation-delay: 15s;
+    animation-delay: 30s;
 }
 .slideshow-item img {
     width: 100%;
