@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    color: #57015a;
+    color: #f655e1;
 }
 
 .age {
@@ -12,6 +12,15 @@ h1 {
     display:flex;
     justify-content: center;
     margin: 20px;
+}
+
+.blocktext {
+    color: #f655e1;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em
 }
 
 /*.bokal {
@@ -34,23 +43,24 @@ h1 {
   }
   
   .btn:hover {
-    background-color: #6707ed;
-    width: 350px;
+    width: 260px;
+    height: 55px;
   }
   
-  /*.btn:active {
+  .btn:active {
     background-color: #6707ed;
-  }*/
+  }
 
 html {
-    background-image: url(prazdnichnye-fony-s-vozdushnymi-sharami-4.webp);
+    background-color: #000;
+    /*background-image: url(prazdnichnye-fony-s-vozdushnymi-sharami-4.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: cover;*/
   }
 
   .slideshow {
@@ -105,7 +115,7 @@ html {
 .slideshow-item-text h5 {
     font-size: 22px;
     margin: 0 0 10px 0;
-    color: #BFE2FF;
+    color: #f655e1;
 }
 .slideshow-item-text p {
     font-size: 15px;
