@@ -90,7 +90,7 @@ html {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    animation: zoom 420s infinite;
+    animation: zoom 20s infinite;
 }
 .slideshow-item-text {
     max-width: 50%;
